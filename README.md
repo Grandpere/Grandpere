@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <br />
       <a href="https://www.linkedin.com/in/lorenzomarozzo/">Linkedin</a>
       ·
-      <a href="https://github.com/Grandpere/grandpere.github.io">Portfolio</a>
+      <a href="https://grandpere.github.io">Portfolio</a>
       ·
       <a href="https://twitter.com/LMarozzo">Twitter</a>
     </p>

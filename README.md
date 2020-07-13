@@ -42,11 +42,11 @@ Here are some ideas to get you started:
     <p align="center">
       <span>⚡ My many technologies and tools :</span>
       <br />
-      <img src="https://github.com/Grandpere/Grandpere/php.png" alt="PHP logo" />
-      <img src="https://github.com/Grandpere/Grandpere/symfony.png" alt="Symfony logo" />
-      <img src="https://github.com/Grandpere/Grandpere/Javascript.png" alt="Javascript logo" />
-      <img src="https://github.com/Grandpere/Grandpere/phpstorm.png" alt="PHPStorm logo" />
-      <img src="https://github.com/Grandpere/Grandpere/vscode.png" alt="VScode logo" />
+      <img src="php.png" alt="PHP logo" />
+      <img src="symfony.png" alt="Symfony logo" />
+      <img src="javascript.png" alt="Javascript logo" />
+      <img src="phpstorm.png" alt="PHPStorm logo" />
+      <img src="vscode.png" alt="VScode logo" />
     </p>
 </p>
 

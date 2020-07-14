@@ -42,11 +42,11 @@ Here are some ideas to get you started:
     <p align="center">
       <span>⚡ My many technologies and tools :</span>
       <br />
-      <img src="./assets/php.png" alt="PHP logo" />
-      <img src="./assets/symfony.png" alt="Symfony logo" />
-      <img src="./assets/javascript.png" alt="Javascript logo" />
-      <img src="./assets/phpstorm.png" alt="PHPStorm logo" />
-      <img src="./assets/vscode.png" alt="VScode logo" />
+      <img src="assets/php.png" alt="PHP logo" />
+      <img src="assets/symfony.png" alt="Symfony logo" />
+      <img src="assets/javascript.png" alt="Javascript logo" />
+      <img src="assets/phpstorm.png" alt="PHPStorm logo" />
+      <img src="assets/vscode.png" alt="VScode logo" />
     </p>
 </p>
 

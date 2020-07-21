@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
+![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Grandpere.Grandpere)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grandpere&repo=grandpere.github.io)](https://github.com/Grandpere/grandpere.github.io)
 -->

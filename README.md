@@ -30,17 +30,18 @@ Here are some ideas to get you started:
     <p align="center">
       🌱 I’m currently learning React and Redux
     </p>
-    <p align="center">
-      <span>📫 How to reach me :</span>
-      <br />
+</p> 
+
+## 📫 How to reach me
+<p>
       <a href="https://github.com/Grandpere" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
       <a href="https://twitter.com/LMarozzo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
       <a href="https://www.linkedin.com/in/lorenzomarozzo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://grandpere.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    </p>
-    <p align="center">
-      <span>⚡ My many technologies and tools :</span>
-      <br />
+</p>
+
+## 🛠️ Favorite tools
+<p align="center">
       <img alt="PHP" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
       <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
       <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-F9A56F?style=flat-square&logo=rabbitmq&logoColor=white" />
@@ -56,15 +57,16 @@ Here are some ideas to get you started:
       <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img alt="composer" src="https://img.shields.io/badge/-Composer-624226?style=flat-square&logo=composer&logoColor=white" />
-    </p>
 </p>
-<hr>
 
-![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&count_private=true&show_icons=true&theme=chartreuse-dark)
+## 📊 Github stats
+[![Grandpere's github activity graph](https://activity-graph.herokuapp.com/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Grandpere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere&theme=chartreuse-dark)
 
-![Grandpere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandpere&theme=chartreuse-dark)
+
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Grandpere.Grandpere)

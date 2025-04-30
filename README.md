@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 Github stats
-[![Grandpere's github activity graph](https://activity-graph.herokuapp.com/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grandpere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 [![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 [![Grandpere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,70 +1,62 @@
-<h3 align="center">Hi there 👋</h3>
-          
+# Hi 👋, I'm Lorenzo Marozzo
+
+### An experienced Php developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grandpere&label=Profile views&color=0e75b6&style=flat" alt="Grandpere" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Grandpere" alt="Grandpere" /></a> </p>
+
+- 🔭 I'm currently working on **a personal project [fuelapp](https://github.com/Grandpere/fuelapp) and [f76-tools](https://github.com/Grandpere/f76-tools) with codex ai for testing**
+
+- 🌱 I'm currently learning **Kubernetes**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **learning system design**
+
+- 💬 Ask me about **PHP, Symfony and Web development**
+
+- 📫 How to reach me **lorenzo.marozzo@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://grandpere.github.io/](https://grandpere.github.io/)**
+
 <!--
-**Grandpere/Grandpere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📝 I regularly write articles on **[https://grandpere.github.io/](https://grandpere.github.io/)**
 -->
-<p align="center">
-    <a href="https://github.com/Grandpere/">
-        <img src="https://avatars0.githubusercontent.com/u/28756910?s=460&u=535a07ee23723005632b18161b825be0c2b71309&v=4" alt="Logo" width="120" height="120">
-    </a>
-    <p align="center">
-      I'm a web developer looking for opportunities in Paris.
-    </p>
-    <p align="center">
-      I have a preference for the PHP language and the Symfony framework but I remain open to all proposals.
-    </p>
-    <p align="center">
-      🔭 I’m currently working on my <a href="https://github.com/Grandpere/blog">blog project</a>
-    </p>
-    <p align="center">
-      🌱 I’m currently learning React and Redux
-    </p>
-</p> 
 
-## 📫 How to reach me
-<p>
-      <a href="https://github.com/Grandpere" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/lorenzomarozzo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://grandpere.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+- 📄 Know about my experiences **[https://grandpere.github.io/assets/files/Marozzo-Lorenzo.pdf](https://grandpere.github.io/assets/files/Marozzo-Lorenzo.pdf)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Grandpere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Grandpere" height="30" width="40" /></a>
+<a href="https://dev.to/grandpere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grandpere" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lorenzomarozzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzomarozzo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/grandpere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="grandpere" height="30" width="40" /></a>
+<a href="https://hackerrank.com/Grandpere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Grandpere" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Favorite tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bulma" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/github-actions" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hugo" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/phpstorm" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=phpstorm" alt="phpstorm" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/symfony" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=symfony" alt="symfony" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vscode" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+
 <p align="center">
-      <img alt="PHP" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
-      <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-      <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-F9A56F?style=flat-square&logo=rabbitmq&logoColor=white" />
       <img alt="Doctrine" src="https://img.shields.io/badge/-Doctrine-F9A03C?style=flat-square&logo=doctrine&logoColor=white" />
       <img alt="twig" src="https://img.shields.io/badge/-Twig-afc97e?style=flat-square&logo=twig&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-      <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="css3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" />
-      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
       <img alt="PHPStorm" src="https://img.shields.io/badge/-PHPStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
       <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img alt="composer" src="https://img.shields.io/badge/-Composer-624226?style=flat-square&logo=composer&logoColor=white" />
 </p>
 
-## 📊 Github stats
+## 📊 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grandpere&show_icons=true&locale=en&layout=compact" alt="Grandpere" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Grandpere&show_icons=true&locale=en" alt="Grandpere" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Grandpere&" alt="Grandpere" /></p>
+
 [![Grandpere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 [![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 [![Grandpere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <!--

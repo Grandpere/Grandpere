@@ -2,10 +2,6 @@
 
 ### An experienced Php developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grandpere&label=Profile views&color=0e75b6&style=flat" alt="Grandpere" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Grandpere" alt="Grandpere" /></a> </p>
-
 - 🔭 I'm currently working on **a personal project [fuelapp](https://github.com/Grandpere/fuelapp) and [f76-tools](https://github.com/Grandpere/f76-tools) with codex ai for testing**
 
 - 🌱 I'm currently learning **Kubernetes**
@@ -46,19 +42,22 @@
 
 ## 📊 Stats
 [![Grandpere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grandpere&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grandpere&label=Profile views&color=0e75b6&style=flat" alt="Grandpere" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Grandpere" alt="Grandpere" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grandpere&show_icons=true&locale=en&layout=compact" alt="Grandpere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Grandpere&show_icons=true&locale=en" alt="Grandpere" /></p>
 
-
 [![Grandpere's github stats](https://github-readme-stats.vercel.app/api?username=Grandpere&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Grandpere's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Grandpere's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandpere&layout=compact&theme=chartreuse-dark&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Grandpere.Grandpere)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grandpere&repo=grandpere.github.io)](https://github.com/Grandpere/grandpere.github.io)
--->
+

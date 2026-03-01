@@ -160,15 +160,19 @@
 
 
 ## 📊 Stats
-[![Grandpere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grandpere&theme=chartreuse-dark)](https://git.io/streak-stats)
-
-
-
 ![Trophy](./profile/trophy.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grandpere&theme=chartreuse-dark)](https://git.io/streak-stats)
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 ![Wakatime](./profile/wakatime.svg)
+![Top Languages](./profile/top-langs.svg)
+[![Grandpere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandpere&bg_color=000000&color=7fff00&line=ffffff&point=00aeff&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
 
 

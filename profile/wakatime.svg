@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="260.0745"
+            width="239.8005"
             height="8"
             fill="#292929"
           />
@@ -137,19 +137,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="260.0745"
+            x="239.8005"
             y="0"
-            width="115.83149999999999"
+            width="146.9865"
             height="8"
-            fill="#427819"
+            fill="#083fa1"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="375.906"
+            x="386.78700000000003"
             y="0"
-            width="76.074"
+            width="63.5655"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="451.98"
+            x="450.3525"
             y="0"
-            width="9.858"
+            width="9.951"
             height="8"
             fill="#4F5D95"
           />
@@ -173,9 +173,9 @@
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile - 13 mins
+        Markdown - 18 mins
       </text>
     </g>
   

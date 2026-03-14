@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="115"
+        viewBox="0 0 495 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="239.8005"
-            height="8"
-            fill="#292929"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="239.8005"
-            y="0"
-            width="146.9865"
+            width="352.656"
             height="8"
             fill="#083fa1"
           />
@@ -147,49 +137,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="386.78700000000003"
+            x="352.656"
             y="0"
-            width="63.5655"
+            width="109.78649999999999"
             height="8"
             fill="#cb171e"
           />
         
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="450.3525"
-            y="0"
-            width="9.951"
-            height="8"
-            fill="#4F5D95"
-          />
-        
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 30 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 18 mins
       </text>
     </g>
   
-    <g transform="translate(25, 50)">
+    <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 8 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP - 1 min
+        YAML - 5 mins
       </text>
     </g>
   

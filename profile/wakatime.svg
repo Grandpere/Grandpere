@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="352.656"
+            width="255.93599999999998"
             height="8"
             fill="#083fa1"
           />
@@ -137,25 +137,42 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="352.656"
+            x="255.93599999999998"
             y="0"
-            width="109.78649999999999"
+            width="143.685"
             height="8"
-            fill="#cb171e"
+            fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="399.621"
+            y="0"
+            width="61.333499999999994"
+            height="8"
+            fill="#427819"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 18 mins
+        Markdown - 30 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 5 mins
+        JSON - 17 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#427819" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Makefile - 7 mins
       </text>
     </g>
   

@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="255.93599999999998"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="255.93599999999998"
-            y="0"
-            width="143.685"
+            width="303.552"
             height="8"
             fill="#292929"
           />
@@ -147,29 +137,56 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="399.621"
+            x="303.552"
             y="0"
-            width="61.333499999999994"
+            width="88.164"
+            height="8"
+            fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="391.716"
+            y="0"
+            width="51.103500000000004"
+            height="8"
+            fill="#4F5D95"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="442.8195"
+            y="0"
+            width="21.111"
             height="8"
             fill="#427819"
           />
         
       
     <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#292929" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JSON - 1 hr 46 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 30 mins
       </text>
     </g>
   
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 17 mins
+        PHP - 17 mins
       </text>
     </g>
   
-    <g transform="translate(25, 50)">
+    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Makefile - 7 mins
